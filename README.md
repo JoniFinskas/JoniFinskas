@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Kahtyy
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and C#
 - 📫 How to reach me kahtyybusiness@gmail.com
 
 <!---
