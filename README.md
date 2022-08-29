@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joni
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Python, JavaScript, C#
 
 
 
